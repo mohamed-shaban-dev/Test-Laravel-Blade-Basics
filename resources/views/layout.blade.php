@@ -7,6 +7,6 @@
                 {{-- to layouts/main.blade.php --}}
                 Please change layout.
             </div>
-        </div>
+        </div> 
     </div>
 </div>
